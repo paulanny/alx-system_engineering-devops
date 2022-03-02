@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# My first script
+
+echo "Hello Wo/alx-system_engineering-devops/0x00-shell_basics"
